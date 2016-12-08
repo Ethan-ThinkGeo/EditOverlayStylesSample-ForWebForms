@@ -18,9 +18,9 @@ Working...
 
 ### Getting Help
 
-[Map Suite WebForms For Winforms Wiki Resources](http://wiki.thinkgeo.com/wiki/map_suite_webforms_edition)
+[Map Suite WebForms Wiki Resources](http://wiki.thinkgeo.com/wiki/map_suite_webforms_edition)
 
-[Map Suite WebForms For Winforms Product Description](http://thinkgeo.com/map-suite-developer-gis/webforms-edition/)
+[Map Suite WebForms Product Description](http://thinkgeo.com/map-suite-developer-gis/webforms-edition/)
 
 [ThinkGeo Community Site](http://community.thinkgeo.com/)
 
