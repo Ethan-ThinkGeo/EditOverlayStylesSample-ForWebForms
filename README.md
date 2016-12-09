@@ -1,4 +1,4 @@
-# EditOverlayStylesSample-ForWebForms
+# Edit Overlay Styles Sample for WebForms
 
 ### Description
 
