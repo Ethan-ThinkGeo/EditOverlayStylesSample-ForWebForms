@@ -2,7 +2,7 @@
 
 ### Description
 
-In today’s Web project, we learn how to control the styles of the EditOverlay for both the default style and the editing style. In order to accomplish this, we write some javascript code. Look at the code in the “script” tag to see how we can control the fill color, the opacity, the border width etc of the features in the EditOverlay.
+This Web project demonstrates how to control the styles of the **EditOverlay**, for both the default style and the editing style. In order to accomplish this, we write some javascript code. Look at the code in the *script* tag to see how we can control the fill color, the opacity, the border width, and other attributes of the features in the **EditOverlay**.
 
 ![Screenshot](https://github.com/ThinkGeo/EditOverlayStylesSample-ForWebForms/blob/master/ScreenShot.png)
 
