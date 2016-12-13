@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Configuration;
-using ThinkGeo.MapSuite.Core;
-using ThinkGeo.MapSuite.WebEdition;
+using ThinkGeo.MapSuite;
+using ThinkGeo.MapSuite.Drawing;
+using ThinkGeo.MapSuite.Shapes;
+using ThinkGeo.MapSuite.WebForms;
 
 namespace EditOverlayStyles
 {
@@ -11,7 +13,7 @@ namespace EditOverlayStyles
         {
             if (!Page.IsPostBack)
             {
-                Map1.MapBackground.BackgroundBrush = new GeoSolidBrush(GeoColor.FromHtml("#E5E3DF"));
+                Map1.MapBackground = new GeoSolidBrush(GeoColor.FromHtml("#E5E3DF"));
                 Map1.CurrentExtent = new RectangleShape(-10779959,3909739,-10777699,3908399);
                 Map1.MapUnit = GeographyUnit.Meter;
 

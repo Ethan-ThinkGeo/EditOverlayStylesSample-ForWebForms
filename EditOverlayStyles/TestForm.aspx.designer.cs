@@ -47,6 +47,6 @@ namespace EditOverlayStyles {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::ThinkGeo.MapSuite.WebEdition.Map Map1;
+        protected global::ThinkGeo.MapSuite.WebForms.Map Map1;
     }
 }
