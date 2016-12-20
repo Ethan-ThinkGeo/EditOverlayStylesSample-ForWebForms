@@ -13,10 +13,8 @@
     <RootNamespace>EditOverlayStyles</RootNamespace>
     <AssemblyName>EditOverlayStyles</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
-    <FileUpgradeFlags>
-    </FileUpgradeFlags>
-    <UpgradeBackupLocation>
-    </UpgradeBackupLocation>
+    <FileUpgradeFlags></FileUpgradeFlags>
+    <UpgradeBackupLocation></UpgradeBackupLocation>
     <OldToolsVersion>4.0</OldToolsVersion>
     <TargetFrameworkProfile />
     <UseIISExpress>false</UseIISExpress>
@@ -76,15 +74,15 @@
     <Reference Include="System.Web.Mobile" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="ThinkGeo.MapSuite, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\ThinkGeo.MapSuite.10.0.348.1\lib\net45\ThinkGeo.MapSuite.dll</HintPath>
+      <HintPath>packages\ThinkGeo.MapSuite.10.0.0\lib\net45\ThinkGeo.MapSuite.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="ThinkGeo.MapSuite.ProductCenter, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\ThinkGeo.MapSuite.10.0.348.1\lib\net45\ThinkGeo.MapSuite.ProductCenter.exe</HintPath>
+      <HintPath>packages\ThinkGeo.MapSuite.10.0.0\lib\net45\ThinkGeo.MapSuite.ProductCenter.exe</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="ThinkGeo.MapSuite.WebForms, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\MapSuiteWebForWebForms-BareBone.10.0.348.1\lib\net45\ThinkGeo.MapSuite.WebForms.dll</HintPath>
+      <HintPath>packages\MapSuiteWebForWebForms-BareBone.10.0.0\lib\net45\ThinkGeo.MapSuite.WebForms.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="WindowsBase" />
@@ -133,12 +131,10 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>65299</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>
-          </IISUrl>
+          <IISUrl></IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
-          <CustomServerUrl>
-          </CustomServerUrl>
+          <CustomServerUrl></CustomServerUrl>
           <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
         </WebProjectProperties>
       </FlavorProperties>
