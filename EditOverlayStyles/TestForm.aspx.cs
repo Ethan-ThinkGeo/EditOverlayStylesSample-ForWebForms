@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Configuration;
 using ThinkGeo.MapSuite;
 using ThinkGeo.MapSuite.Drawing;
 using ThinkGeo.MapSuite.Shapes;
@@ -14,7 +13,7 @@ namespace EditOverlayStyles
             if (!Page.IsPostBack)
             {
                 Map1.MapBackground = new GeoSolidBrush(GeoColor.FromHtml("#E5E3DF"));
-                Map1.CurrentExtent = new RectangleShape(-10779959,3909739,-10777699,3908399);
+                Map1.CurrentExtent = new RectangleShape(-10779959, 3909739, -10777699, 3908399);
                 Map1.MapUnit = GeographyUnit.Meter;
 
                 Map1.MapTools.OverlaySwitcher.Enabled = true;
@@ -22,7 +21,6 @@ namespace EditOverlayStyles
 
                 //Adds the Google Map as an overlay
                 GoogleOverlay google = new GoogleOverlay("Google Map");
-                google.JavaScriptLibraryUri = new Uri(ConfigurationManager.AppSettings["GoogleUri"]);
                 google.GoogleMapType = GoogleMapType.Normal;
                 Map1.CustomOverlays.Add(google);
 
