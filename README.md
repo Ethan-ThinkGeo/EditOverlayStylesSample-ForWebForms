@@ -4,6 +4,8 @@
 
 This Web project demonstrates how to control the styles of the **EditOverlay**, for both the default style and the editing style. In order to accomplish this, we use javascript code. Look at the code in the *script* tag to see how we can control the fill color, the opacity, the border width, and other attributes of the features in the **EditOverlay**.
 
+Please refer to [Wiki](http://wiki.thinkgeo.com/wiki/map_suite_desktop_for_wpf) for the details.
+
 ![Screenshot](https://github.com/ThinkGeo/EditOverlayStylesSample-ForWebForms/blob/master/ScreenShot.png)
 
 ### Requirements
@@ -18,9 +20,9 @@ Working...
 
 ### Getting Help
 
-[Map Suite WebForms Wiki Resources](http://wiki.thinkgeo.com/wiki/map_suite_webforms_edition)
+[Map Suite WebForms Wiki Resources](http://wiki.thinkgeo.com/wiki/map_suite_web_for_webforms)
 
-[Map Suite WebForms Product Description](http://thinkgeo.com/map-suite-developer-gis/webforms-edition/)
+[Map Suite WebForms Product Description](https://thinkgeo.com/ui-controls#web-platforms)
 
 [ThinkGeo Community Site](http://community.thinkgeo.com/)
 
