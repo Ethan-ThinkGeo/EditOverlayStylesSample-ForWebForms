@@ -4,7 +4,7 @@
 
 This Web project demonstrates how to control the styles of the **EditOverlay**, for both the default style and the editing style. In order to accomplish this, we use javascript code. Look at the code in the *script* tag to see how we can control the fill color, the opacity, the border width, and other attributes of the features in the **EditOverlay**.
 
-Please refer to [Wiki](http://wiki.thinkgeo.com/wiki/map_suite_desktop_for_wpf) for the details.
+Please refer to [Wiki](System.String[]) for the details.
 
 ![Screenshot](https://github.com/ThinkGeo/EditOverlayStylesSample-ForWebForms/blob/master/ScreenShot.png)
 
