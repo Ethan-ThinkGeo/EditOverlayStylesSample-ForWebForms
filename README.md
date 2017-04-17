@@ -12,7 +12,7 @@ Please refer to [Wiki](http://wiki.thinkgeo.com/wiki/map_suite_web_for_webforms)
 
 This sample makes use of the following NuGet Packages
 
-[MapSuite 10.0.0.0](https://www.nuget.org/packages?q=thinkgeo)
+[MapSuite 10.0.0](https://www.nuget.org/packages?q=ThinkGeo)
 
 ### About the Code
 
@@ -20,9 +20,9 @@ Working...
 
 ### Getting Help
 
-[Map Suite WebForms Wiki Resources](http://wiki.thinkgeo.com/wiki/map_suite_web_for_webforms)
+[Map Suite Web for WebForms Wiki Resources](http://wiki.thinkgeo.com/wiki/map_suite_web_for_webforms)
 
-[Map Suite WebForms Product Description](https://thinkgeo.com/ui-controls#web-platforms)
+[Map Suite Web for WebForms Product Description](https://thinkgeo.com/ui-controls#web-platforms)
 
 [ThinkGeo Community Site](http://community.thinkgeo.com/)
 
