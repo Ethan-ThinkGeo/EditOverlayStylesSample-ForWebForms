@@ -39,7 +39,7 @@ Map1.EditOverlay.EditSettings.IsRotatable = false;
 
 This example makes use of the following APIs:
 
-Working...
+-[ThinkGeo.MapSuite.WebForms.EditSettings](http://wiki.thinkgeo.com/wiki/api/thinkgeo.mapsuite.webforms.editsettings)
 
 ### About Map Suite
 
