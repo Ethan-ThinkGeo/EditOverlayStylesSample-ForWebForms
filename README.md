@@ -39,7 +39,9 @@ Map1.EditOverlay.EditSettings.IsRotatable = false;
 
 This example makes use of the following APIs:
 
--[ThinkGeo.MapSuite.WebForms.EditSettings](http://wiki.thinkgeo.com/wiki/api/thinkgeo.mapsuite.webforms.editsettings)
+- [ThinkGeo.MapSuite.WebForms.EditSettings](http://wiki.thinkgeo.com/wiki/api/thinkgeo.mapsuite.webforms.editsettings)
+- [ThinkGeo.MapSuite.Shapes.Feature](http://wiki.thinkgeo.com/wiki/api/thinkgeo.mapsuite.shapes.feature)
+- [ThinkGeo.MapSuite.WebForms.TrackMode](http://wiki.thinkgeo.com/wiki/api/thinkgeo.mapsuite.webforms.trackmode)
 
 ### About Map Suite
 
