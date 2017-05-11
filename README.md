@@ -15,9 +15,16 @@ This sample makes use of the following NuGet Packages
 [MapSuite 10.0.0](https://www.nuget.org/packages?q=ThinkGeo)
 
 ### About the Code
+```csharp
+Feature editFeature = new Feature(polygonShape);
+Map1.EditOverlay.Features.Add(editFeature);
 
-Working...
-
+Map1.EditOverlay.TrackMode = TrackMode.Edit;
+Map1.EditOverlay.EditSettings.IsDraggable = true;
+Map1.EditOverlay.EditSettings.IsReshapable = false;
+Map1.EditOverlay.EditSettings.IsResizable = false;
+Map1.EditOverlay.EditSettings.IsRotatable = false;
+```
 ### Getting Help
 
 [Map Suite Web for WebForms Wiki Resources](http://wiki.thinkgeo.com/wiki/map_suite_web_for_webforms)
